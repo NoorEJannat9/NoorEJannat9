@@ -1,7 +1,7 @@
 # Hi, I'm Noor E Jannat Neha 👋
 
 ### SDET & QA Automation | Full-Stack Developer | Machine Learning, AI & Bioinformatics Researcher
-[cite_start]I am a Computer Science & Engineering graduate [cite: 6] focused on building scalable web architectures and ensuring software reliability through advanced automation. I bridge the gap between robust backend logic and data-driven research.
+]I am a Computer Science & Engineering graduate focused on building scalable web architectures and ensuring software reliability through advanced automation. I bridge the gap between robust backend logic and data-driven research.
 
 ---
 
@@ -17,26 +17,26 @@
 ---
 
 ### 🔬 Research & Professional Impact
-* [cite_start]**Full-Stack Intern at City Tech IT:** Collaborating on MERN stack applications and designing RESTful APIs[cite: 20, 21, 22].
-* [cite_start]**Research Assistant:** Conducting large-scale single-cell transcriptomics analysis and explainable AI research under Dr. Raktim Kumar Mondol[cite: 26, 28, 33, 34].
-* [cite_start]**Explainable AI Framework:** Developed a framework for plant health classification currently under review at ICEFronT 2026[cite: 30, 31, 32].
+**Full-Stack Intern at City Tech IT:** Collaborating on MERN stack applications and designing RESTful APIs.
+***Research Assistant:** Conducting large-scale single-cell transcriptomics analysis and explainable AI research under Dr. Raktim Kumar Mondol.
+***Explainable AI Framework:** Developed a framework for plant health classification currently under review at ICEFronT 2026.
 
 ---
 
 ### 🚀 Featured Projects
 
 #### [Autism Spectrum Disorder Predictor](https://github.com/NoorEJannat9/ASD-Predictor)
-* [cite_start]**Problem:** Early detection of autism through behavioral and visual data[cite: 44, 46].
-* [cite_start]**Solution:** Developed an end-to-end system using **Vision Transformers (ViT-B/16)** and **Eye Gaze tracking** via WebGazer.js[cite: 45, 48, 50].
-* [cite_start]**Tech:** Python Flask, HTML/CSS, JavaScript, Deep Learning[cite: 45].
+**Problem:** Early detection of autism through behavioral and visual data.
+***Solution:** Developed an end-to-end system using **Vision Transformers (ViT-B/16)** and **Eye Gaze tracking** via WebGazer.js.
+***Tech:** Python Flask, HTML/CSS, JavaScript, Deep Learning.
 
 #### [Finance Automation Suite](https://github.com/NoorEJannat9/Finance-Automation)
 * **Automation:** Engineered a full-system automation suite for finance application flows, including admin verification.
 * **Efficiency:** Leveraged **Java (JDK 21)** and **Selenium** within IntelliJ IDEA for robust testing.
 
 #### [Padel Tournament Management](https://github.com/NoorEJannat9/Padel-Tournament-Backend)
-* [cite_start]**Backend:** Built a RESTful API using Node.js and Express to manage teams, players, and match scheduling[cite: 61, 62].
-* [cite_start]**Architecture:** Implemented modular architecture and MVC design patterns for scalability[cite: 65].
+***Backend:** Built a RESTful API using Node.js and Express to manage teams, players, and match scheduling.
+***Architecture:** Implemented modular architecture and MVC design patterns for scalability.
 
 #### [DSE Share Price Scraper](https://github.com/NoorEJannat9/DSE-Share-Price-Scraper)
 * **Real-Time Data:** Developed a Selenium-based scraper to extract live share price data from the Dhaka Stock Exchange.
