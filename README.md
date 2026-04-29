@@ -44,6 +44,19 @@
 
 ---
 
+### 🏆 Coding Profiles & Stats
+<p align="left">
+<a href="https://leetcode.com/u/RQOO2SfsQ9/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat-square" /></a>
+<a href="https://www.hackerrank.com/profile/noorejannat19"><img src="https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white&style=flat-square" /></a>
+</p>
+
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoorEJannat9&show_icons=true&theme=nord" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoorEJannat9&layout=compact&theme=nord" />
+</p>
+
+---
+
 ### 📊 GitHub Metrics
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoorEJannat9&show_icons=true&theme=nord" />
