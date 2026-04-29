@@ -18,8 +18,10 @@ I am a Computer Science & Engineering graduate focused on building scalable web 
 
 ### 🔬 Research & Professional Impact
 **Full-Stack Intern at City Tech IT:** Collaborating on MERN stack applications and designing RESTful APIs.
-***Research Assistant:** Conducting large-scale single-cell transcriptomics analysis and explainable AI research under Dr. Raktim Kumar Mondol.
-***Explainable AI Framework:** Developed a framework for plant health classification currently under review at ICEFronT 2026.
+
+**Research Assistant:** Conducting large-scale single-cell transcriptomics analysis and explainable AI research under Dr. Raktim Kumar Mondol, UNSW, Australia.
+
+**Explainable AI Framework:** Developed a framework for plant health classification currently under review at ICEFronT 2026.
 
 ---
 
