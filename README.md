@@ -1,6 +1,6 @@
 # Hi, I'm Noor E Jannat Neha 👋
 
-### Full-Stack Developer | SDET & QA Automation | Machine Learning Researcher
+### SDET & QA Automation | Full-Stack Developer | Machine Learning, AI & Bioinformatics Researcher
 [cite_start]I am a Computer Science & Engineering graduate [cite: 6] focused on building scalable web architectures and ensuring software reliability through advanced automation. I bridge the gap between robust backend logic and data-driven research.
 
 ---
