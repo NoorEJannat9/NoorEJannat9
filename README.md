@@ -57,14 +57,6 @@
 
 ---
 
-### 📊 GitHub Metrics
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoorEJannat9&show_icons=true&theme=nord" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoorEJannat9&layout=compact&theme=nord" />
-</p>
-
----
-
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/noor-e-jannat-neha-2a2448234/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:noorejannat19@gmail.com)
