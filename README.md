@@ -18,7 +18,7 @@
 
 ### 🔬 Research & Professional Impact
 * [cite_start]**Full-Stack Intern at City Tech IT:** Collaborating on MERN stack applications and designing RESTful APIs[cite: 20, 21, 22].
-* [cite_start]**Research Assistant (UNSW):** Conducting large-scale single-cell transcriptomics analysis and explainable AI research under Dr. Raktim Kumar Mondol[cite: 26, 28, 33, 34].
+* [cite_start]**Research Assistant:** Conducting large-scale single-cell transcriptomics analysis and explainable AI research under Dr. Raktim Kumar Mondol[cite: 26, 28, 33, 34].
 * [cite_start]**Explainable AI Framework:** Developed a framework for plant health classification currently under review at ICEFronT 2026[cite: 30, 31, 32].
 
 ---
